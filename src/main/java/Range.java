@@ -1,5 +1,3 @@
-import java.lang.reflect.Array;
-
 public class Range {
     private String text;
 
